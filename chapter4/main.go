@@ -1,5 +1,3 @@
-//go:build variables
-
 package main
 
 import (

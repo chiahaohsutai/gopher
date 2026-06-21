@@ -1,5 +1,3 @@
-//go:build ifelse
-
 package main
 
 import "fmt"

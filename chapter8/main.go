@@ -1,5 +1,3 @@
-//go:build arrays
-
 package main
 
 import "fmt"

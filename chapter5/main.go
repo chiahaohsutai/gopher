@@ -1,5 +1,3 @@
-//go:build forloop
-
 package main
 
 import "fmt"

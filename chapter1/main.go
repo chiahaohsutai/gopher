@@ -1,5 +1,3 @@
-//go:build hello_world
-
 package main
 
 import "fmt"
